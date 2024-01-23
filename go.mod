@@ -1,6 +1,6 @@
 module github.com/devfullcycle/20-CleanArch
 
-go 1.19
+go 1.18
 
 require (
 	github.com/99designs/gqlgen v0.17.22
