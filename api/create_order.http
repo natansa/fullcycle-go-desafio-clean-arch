@@ -3,7 +3,7 @@ Host: localhost:8000
 Content-Type: application/json
 
 {
-    "id":"C34567",
-    "price": 311.75,
-    "tax": 2.9
+    "id":"A12345",
+    "price": 200.00,
+    "tax": 4.2
 }
